@@ -8,3 +8,5 @@ The apps I was able to create in this short amount of time are nowhere near perf
 As I look to the future, I hope to learn more about databases and using CloudKit. I am also interested about the capabilities of using Bluetooth in iOS apps. 
 
 Ultimately, I hope that my portfolio illustrates my intellectual vitality for the world of programming and accurately displays the skill sets that I have gained throughout my iOS class.
+
+# MY APPS (WILL BE UPDATED WITH A LINK LATER)
