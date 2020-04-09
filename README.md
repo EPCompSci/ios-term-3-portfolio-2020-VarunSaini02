@@ -14,6 +14,6 @@ Ultimately, I hope that my portfolio illustrates my intellectual vitality for th
 [Metronome](https://github.com/Underdoneboar4/Metronome)  
 [Rush Hour](https://github.com/VarunSaini02/Rush-Hour)  
 [Quiz Bowl Scorekeeper](https://github.com/90310844/Quiz-Bowl-Scorekeeper)  
-[War Card Game]()  
-[Multipage]()  
+[War Card Game](https://github.com/VarunSaini02/War)  
+[Multipage](https://github.com/VarunSaini02/Multipage)  
 
