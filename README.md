@@ -9,12 +9,19 @@ As I look to the future, I hope to learn more about databases and using CloudKit
 
 Ultimately, I hope that my portfolio illustrates my intellectual vitality for the world of programming and accurately displays the skill sets that I have gained throughout my iOS class.
 
-# My Apps
-[Mr. Brightside](https://github.com/VarunSaini02/Brightside)  
-[Local Notifications](https://github.com/VarunSaini02/Local-Notifications)  
-[Metronome](https://github.com/Underdoneboar4/Metronome)  
-[Rush Hour](https://github.com/VarunSaini02/Rush-Hour)  
-[Quiz Bowl Scorekeeper](https://github.com/90310844/Quiz-Bowl-Scorekeeper)  
-[War Card Game](https://github.com/VarunSaini02/War)  
-[Multipage](https://github.com/VarunSaini02/Multipage)  
+## My Apps
+
+### [Mr. Brightside](https://github.com/VarunSaini02/Brightside)
+[Local Notifications](https://github.com/VarunSaini02/Local-Notifications)
+
+### [Metronome](https://github.com/Underdoneboar4/Metronome)
+
+### [Rush Hour](https://github.com/VarunSaini02/Rush-Hour)
+
+### [Quiz Bowl Scorekeeper](https://github.com/90310844/Quiz-Bowl-Scorekeeper)
+
+### [War Card Game](https://github.com/VarunSaini02/War)
+
+### [Multipage](https://github.com/VarunSaini02/Multipage)  
+
 
