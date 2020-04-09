@@ -9,7 +9,10 @@ As I look to the future, I hope to learn more about databases and using CloudKit
 
 Ultimately, I hope that my portfolio illustrates my intellectual vitality for the world of programming and accurately displays the skill sets that I have gained throughout my iOS class.
 
-# MY APPS
+# My Apps
 [Mr. Brightside](https://github.com/VarunSaini02/Brightside)  
-[Metronome]()  
+[Metronome](https://github.com/Underdoneboar4/Metronome)  
 [Rush Hour](https://github.com/VarunSaini02/Rush-Hour)  
+[War Card Game]()
+[Multipage]()
+
