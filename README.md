@@ -11,6 +11,7 @@ Ultimately, I hope that my portfolio illustrates my intellectual vitality for th
 
 # My Apps
 [Mr. Brightside](https://github.com/VarunSaini02/Brightside)  
+[Local Notifications](https://github.com/VarunSaini02/Local-Notifications)  
 [Metronome](https://github.com/Underdoneboar4/Metronome)  
 [Rush Hour](https://github.com/VarunSaini02/Rush-Hour)  
 [Quiz Bowl Scorekeeper](https://github.com/90310844/Quiz-Bowl-Scorekeeper)  
