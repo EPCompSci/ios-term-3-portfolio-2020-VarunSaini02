@@ -10,10 +10,10 @@ As I look to the future, I hope to learn more about databases and using CloudKit
 Ultimately, I hope that my portfolio illustrates my intellectual vitality for the world of programming and accurately displays the skill sets that I have gained throughout my iOS class.
 
 ## Programming Experience
-Intermediate–Advanced experience with Python (began 2010)  
-Intermediate–Advanced experience with Java (began 2018)  
-Intermediate experience with C/C++ (began 2018 with Arduino)  
-Intermediate experience with Swift/Xcode (began early 2020)  
+* Intermediate/Advanced experience with Python (began 2010)  
+* Intermediate/Advanced experience with Java (began 2018)  
+* Intermediate experience with C/C++ (began 2018 with Arduino)  
+* Intermediate experience with Swift/Xcode (began early 2020)  
 
 ## My Apps
 
