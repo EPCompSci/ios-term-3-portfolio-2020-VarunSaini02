@@ -13,7 +13,7 @@ Ultimately, I hope that my portfolio illustrates my intellectual vitality for th
 [Mr. Brightside](https://github.com/VarunSaini02/Brightside)  
 [Metronome](https://github.com/Underdoneboar4/Metronome)  
 [Rush Hour](https://github.com/VarunSaini02/Rush-Hour)  
-[Quiz Bowl Scorekeeper](https://github.com/90310844/Quiz-Bowl-Scorekeeper)
+[Quiz Bowl Scorekeeper](https://github.com/90310844/Quiz-Bowl-Scorekeeper)  
 [War Card Game]()  
 [Multipage]()  
 
