@@ -34,6 +34,6 @@ Quiz Bowl Scorekeeper is an app made primarily by Pranaav Sriram, another member
 War is a simple but popular card game. This app, which was one of my first apps ever, was based on a similar design from Chris Ching, also known as @CodeWithChris on social media, and it taught me about stack views, random numbers, buttons, and image views.
 
 ### [Multipage](https://github.com/VarunSaini02/Multipage) (Scalable)
-Multipage is another one of my first apps that demonstrates knowledge of Navigation Controllers and navigating between pages. Mechanics that I learned through this app were applied to other apps, like [Mr. Brightside](https://github.com/VarunSaini02/Brightside) and [Quiz Bowl Scorekeeper](https://github.com/90310844/Quiz-Bowl-Scorekeeper).
+Multipage is another one of my first apps that demonstrates knowledge of Navigation Controllers and navigating between pages. Mechanics that I learned through this app were applied to other apps, like [Mr. Brightside](https://github.com/EPCompSci/ios-term-3-portfolio-2020-VarunSaini02/blob/master/README.md#mr-brightside-scalable) and [Quiz Bowl Scorekeeper](https://github.com/EPCompSci/ios-term-3-portfolio-2020-VarunSaini02/blob/master/README.md#quiz-bowl-scorekeeper-scalable).
 
 
